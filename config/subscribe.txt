@@ -7,9 +7,225 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+#EXTM3U x-tvg-url="https://gitlab.com/Meroser/My-EPG/-/raw/main/tvxml-Meroser.xml.gz" catchup="append" catchup-source="&st=${(b)yyyyMMddHHmmss}&ed=${(e)yyyyMMddHHmmss}"
+# 央视高清/27个频道
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV1.png" group-title="央视高清",CCTV-1 综合
+http://10.10.10.100/IPTV/hnlt.php?id=190e459ac218496a8529dd1e2e2c76bb
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV2.png" group-title="央视高清",CCTV-2 财经
+http://10.10.10.100/IPTV/hnlt.php?id=af12d75e7d044b0f926d225135e746de
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV3.png" group-title="央视高清",CCTV-3 综艺
+http://10.10.10.100/IPTV/hnlt.php?id=471583af70a746fb9d0c7c95328a7372
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
+http://10.10.10.100/IPTV/hnlt.php?id=70db6dbeaf6e452680ed62f437d6b587
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV5.png" group-title="央视高清",CCTV-5 体育
+http://10.10.10.100/IPTV/hnlt.php?id=eff0ad47ba424c0d861da1e9e4ea74da
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV5+.png" group-title="央视高清",CCTV-5+ 体育赛事
+http://10.10.10.100/IPTV/hnlt.php?id=49427664af44417389430cf7e7984a24
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV6.png" group-title="央视高清",CCTV-6 电影
+http://10.10.10.100/IPTV/hnlt.php?id=132f9c30706d4261af1d37eb637c3a83
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV7.png" group-title="央视高清",CCTV-7 国防军事
+http://10.10.10.100/IPTV/hnlt.php?id=4391ad99e1be497fae8c14d472d7fb91
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV8.png" group-title="央视高清",CCTV-8 电视剧
+http://10.10.10.100/IPTV/hnlt.php?id=c2c5571d717c486b9f0baff9ba1eac1a
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV9.png" group-title="央视高清",CCTV-9 纪录
+http://10.10.10.100/IPTV/hnlt.php?id=1e72e2fa1d6c4b668e7f40b2562a40df
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV10.png" group-title="央视高清",CCTV-10 科教
+http://10.10.10.100/IPTV/hnlt.php?id=207ebab70a6b435c84ca2fe7f3283022
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV11.png" group-title="央视高清",CCTV-11 戏曲
+http://10.10.10.100/IPTV/hnlt.php?id=b9c30f83077e45e9b82465eb7c2885ae
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV12.png" group-title="央视高清",CCTV-12 社会与法
+http://10.10.10.100/IPTV/hnlt.php?id=a7957663d0c647cf8ea2b6d4d98db732
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV13.png" group-title="央视高清",CCTV-13 新闻
+http://10.10.10.100/IPTV/hnlt.php?id=7fd3d1055a7b4858978a4a0b849abc9e
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV14.png" group-title="央视高清",CCTV-14 少儿
+http://10.10.10.100/IPTV/hnlt.php?id=5c6c1207866a41098731f957ffb19195
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV15.png" group-title="央视高清",CCTV-15 音乐
+http://10.10.10.100/IPTV/hnlt.php?id=29d203bbff354d4bbc44741f9b9623e5
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV16.png" group-title="央视高清",CCTV-16 奥林匹克
+http://10.10.10.100/IPTV/hnlt.php?id=004bce98acf940309188520b827b49e7
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV17.png" group-title="央视高清",CCTV-17 农业农村
+http://10.10.10.100/IPTV/hnlt.php?id=20633f6145724d95a2b1680c02e323cb
+#EXTINF:-1 tvg-id="CCTV4oz" tvg-name="CCTV4欧洲" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV4oz.png" group-title="央视高清",CCTV-4 欧洲 
+http://10.10.10.100/IPTV/hnlt.php?id=45076d4050d0475093890b80bb432a36
+#EXTINF:-1 tvg-id="CCTV4mz" tvg-name="CCTV4美洲" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV4mz.png" group-title="央视高清",CCTV-4 美洲 
+http://10.10.10.100/IPTV/hnlt.php?id=21d8a205abfc4630b0bac8e2e51ea4cf
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV4K.png" group-title="央视高清",CCTV-4K 超高清
+http://10.10.10.100/IPTV/hnlt.php?id=300c881508f944bb930106661bef9630
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV8K.png" group-title="央视高清",CCTV-8K 超高清
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/video/CCTV-8K.mp4
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CETV1.png" group-title="央视高清",CETV-1 综合教育
+http://10.10.10.100/IPTV/hnlt.php?id=3f13a1454e934bc5bb3a4da2cf093327
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CETV2.png" group-title="央视高清",CETV-2 空中课堂
+http://10.10.10.100/IPTV/hnlt.php?id=887449eeea7047189d5ffeb5161b7d58
+#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CETV3.png" group-title="央视高清",CETV-3 北京地面
+http://10.10.10.100/IPTV/hnlt.php?id=shellykoral2021101799iptvxxcetv3
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CETV4.png" group-title="央视高清",CETV-4 职业教育
+http://10.10.10.100/IPTV/hnlt.php?id=001ffac85cab4daebcc7bc8bff06d2a0
+#EXTINF:-1 tvg-id="CETVzqjy" tvg-name="CETV早期教育" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CETVzqjy.png" group-title="央视高清",CETV-早期教育
+http://10.10.10.100/IPTV/hnlt.php?id=d0b38255b2234006994e12bfc08326b0
+
+# 卫视高清/28个频道
+#EXTINF:-1 tvg-id="hunan" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Hunan.png" group-title="卫视高清",湖南卫视
+http://10.10.10.100/IPTV/hnlt.php?id=42f0cf6816b94a11aed026633eee6df8
+#EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/STAR/Hubei.png" group-title="卫视高清",湖北卫视
+http://10.10.10.100/IPTV/hnlt.php?id=b1da28455e0043f8a6e4db9d00e68d4d
+
+
+# CHC系列/3个频道 湖南移动
+#EXTINF:-1 tvg-id="CHCjtyy" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CHCjtyy.png" group-title="数字高清",CHC家庭影院
+http://10.10.10.100/IPTV/hnlt.php?id=6820a397ef654cbb9c257964c4f9d761
+#EXTINF:-1 tvg-id="CHCymdy" tvg-name="CHC影迷电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CHCymdy.png" group-title="数字高清",CHC影迷电影
+http://10.10.10.100/IPTV/hnlt.php?id=b54ad281a08648438bd3b4991ee4e5ad
+#EXTINF:-1 tvg-id="CHCdzdy" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/CHCdzdy.png" group-title="数字高清",CHC动作电影
+http://10.10.10.100/IPTV/hnlt.php?id=d5d639caf0f94523b4df2853395bcd72
+#EXTINF:-1 tvg-id="cwjd" tvg-name="重温经典" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/cwjd.png" group-title="数字高清",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
+# 求索系列/4个频道
+#EXTINF:-1 tvg-id="Qiusuo_jl" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/Qiusuojl.png" group-title="数字高清",求索纪录
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="Qiusuo_kw" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/Qiusuokx.png" group-title="数字高清",求索科学
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="Qiusuo_dw" tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/Qiusuodw.png" group-title="数字高清",求索动物
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="Qiusuo_sh" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Digital/Qiusuosh.png" group-title="数字高清",求索生活
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+
+# 湖北/7个频道
+#EXTINF:-1 tvg-id="Hubei_xwzh" tvg-name="湖北综合" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Hubei1.png" group-title="地方特色",湖北综合
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="Hubei_yspd" tvg-name="湖北影视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Hubei2.png" group-title="地方特色",湖北影视
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="Hubei_jypd" tvg-name="湖北教育" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Hubei3.png" group-title="地方特色",湖北教育
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="Hubei_shpd" tvg-name="湖北生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Hubei4.png" group-title="地方特色",湖北生活
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="Hubei_ggxw" tvg-name="湖北公共新闻" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Hubei5.png" group-title="地方特色",湖北公共新闻
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="Hubei_jspd" tvg-name="湖北经视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Hubei6.png" group-title="地方特色",湖北经视
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="Hubei_gspd" tvg-name="湖北垄上" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Hubei7.png" group-title="地方特色",湖北垄上
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+
+
+# 奇妙香港/20个频道
+#EXTINF:-1 tvg-id="C28" tvg-name="28AI智慧赛马" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",28AI智慧赛马
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="TVG" tvg-name="黄金翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",黄金翡翠台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="TVB_J" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",翡翠台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="TVB_B" tvg-name="TVB Plus" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",TVB Plus
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="TVB_C" tvg-name="无线新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",无线新闻台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="TVB_P" tvg-name="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",明珠台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CTVC" tvg-name="千禧经典台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",千禧经典台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CTVS" tvg-name="亚洲剧台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",亚洲剧台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CDR3" tvg-name="华语剧台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",华语剧台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="TVO" tvg-name="黄金华剧台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",黄金华剧台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CTVE" tvg-name="娱乐新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",娱乐新闻台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CCOC" tvg-name="戏曲台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",戏曲台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="KID" tvg-name="SUPER Kids Channel" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",SUPER Kids Channel
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="ZOO" tvg-name="ZooMoo" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",ZooMoo
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CNIKO" tvg-name="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",Nickelodeon
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CNIJR" tvg-name="Nick Jr" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",Nick Jr
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CCLM" tvg-name="粤语片台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",粤语片台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CMAM" tvg-name="美亚电影台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",美亚电影台
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CTHR" tvg-name="Thrill" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",Thrill
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+#EXTINF:-1 tvg-id="CCCM" tvg-name="天映经典频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="奇妙香港",天映经典频道
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
+
+# NewTV/22个频道
+#EXTINF:-1 tvg-id="NewTVdbrj" tvg-name="东北热剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="NewTVzggf" tvg-name="中国功夫" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV中国功夫
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjspl" tvg-name="军事评论" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV军事评论
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjljc" tvg-name="军旅剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV军旅剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="NewTVnyzf" tvg-name="农业致富" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV农业致富
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-id="NewTVdzdy" tvg-name="动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjtjc" tvg-name="家庭剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV家庭剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="NewTVybjk" tvg-name="怡伴健康" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV怡伴健康
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjsxy" tvg-name="惊悚悬疑" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="NewTVmydp" tvg-name="明星大片" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV明星大片
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="NewTVhljc" tvg-name="欢乐剧场" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV欢乐剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-id="NewTVcmlp" tvg-name="潮妈辣婆" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV潮妈辣婆
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-id="NewTVaqxj" tvg-name="爱情喜剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV爱情喜剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjpdj" tvg-name="精品大剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV精品大剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjpjl" tvg-name="精品纪录" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV精品纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjpty" tvg-name="精品体育" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="NewTVcjty" tvg-name="超级体育" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="NewTVcjdy" tvg-name="超级电影" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="NewTVcjdsj" tvg-name="超级电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="NewTVcjzy" tvg-name="超级综艺" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV超级综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjpzy" tvg-name="金牌综艺" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV金牌综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-id="NewTVjpmc" tvg-name="精品萌宠" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/" group-title="NewTV",NewTV精品萌宠
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+
+# Adult/13个频道
+#EXTINF:-1 tvg-id="Rainbow" tvg-name="彩虹频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Rainbow.png" group-title="🔞禁🔞",彩虹频道
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
+#EXTINF:-1 tvg-id="Rainbow_E" tvg-name="彩虹e台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Rainbow_E.png" group-title="🔞禁🔞",彩虹e台
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
+#EXTINF:-1 tvg-id="Rainbow_Movie" tvg-name="彩虹电影台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Rainbow_Movie.png" group-title="🔞禁🔞",彩虹电影台
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
+#EXTINF:-1 tvg-id="K_Channel" tvg-name="K频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/K.png" group-title="🔞禁🔞",K频道
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/video/K_channel.mp4
+#EXTINF:-1 tvg-id="Pandora_Perfect" tvg-name="潘朵啦玩美台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Pandora_Perfect.png" group-title="🔞禁🔞",潘朵啦玩美台
+http://18.svi-studio.com/live/908957700097/132663288386/3.m3u8
+#EXTINF:-1 tvg-id="Pandora_Pink" tvg-name="潘朵啦粉红台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Pandora_Pink.png" group-title="🔞禁🔞",潘朵啦粉红台
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
+#EXTINF:-1 tvg-id="Amazing" tvg-name="惊艳成人电影台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Amazing_TV.png" group-title="🔞禁🔞",惊艳成人电影台
+http://18.svi-studio.com/live/908957700097/132663288386/1.m3u8
+#EXTINF:-1 tvg-id="Banana" tvg-name="香蕉台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/Banana_TV.png" group-title="🔞禁🔞",香蕉台
+http://18.svi-studio.com/live/908957700097/132663288386/4.m3u8
+#EXTINF:-1 tvg-id="SSTV1" tvg-name="松视1台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/SSTV1.png" group-title="🔞禁🔞",松视1台
+http://18.svi-studio.com/live/908957700097/132663288386/5.m3u8
+#EXTINF:-1 tvg-id="SSTV2" tvg-name="松视2台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/SSTV2.png" group-title="🔞禁🔞",松视2台
+http://18.svi-studio.com/live/908957700097/132663288386/6.m3u8
+#EXTINF:-1 tvg-id="SSTV3" tvg-name="松视3台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/SSTV3.png" group-title="🔞禁🔞",松视3台
+http://18.svi-studio.com/live/908957700097/132663288386/20205.m3u8
+#EXTINF:-1 tvg-id="SSTV4" tvg-name="松视4台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/SSTV4.png" group-title="🔞禁🔞",松视4台
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
+#EXTINF:-1 tvg-id="JStar" tvg-name="JStar极限台电影频道" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Adult/JStar.png" group-title="🔞禁🔞",JStar极限台电影频道
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000001000000099155/main.m3u8
 
 
 
-[WHITELIST]
+[白名单]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
-# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+# 这是订阅来源的白名单。白名单中的订阅来源将不参与速度测试，并且结果中将始终保留它们在最前面。
